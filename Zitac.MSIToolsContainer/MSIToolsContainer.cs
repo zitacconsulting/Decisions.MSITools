@@ -1,13 +1,13 @@
 ﻿using DecisionsFramework.Design.Flow;
 using System.Diagnostics;
 
-namespace Zitac.MSITools;
+namespace Zitac.MSIToolsContainer;
 
 [AutoRegisterMethodsOnClass(true, "Integration", "MSITools")]
-public class MSITools
+public class MSIToolsContainer
 {
 
-    public string GetMSIVersion(byte[] FileContent)
+    public string GetMSIVersionContainer(byte[] FileContent)
     {
         // Ensure msitools is installed
         EnsureMsitoolsInstalled();

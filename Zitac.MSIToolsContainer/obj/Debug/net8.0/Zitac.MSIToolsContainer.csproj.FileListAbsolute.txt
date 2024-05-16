@@ -1,0 +1,13 @@
+/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/bin/Debug/net8.0/Zitac.MSIToolsContainer.deps.json
+/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/bin/Debug/net8.0/Zitac.MSIToolsContainer.dll
+/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/bin/Debug/net8.0/Zitac.MSIToolsContainer.pdb
+/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/obj/Debug/net8.0/Zitac.MSIToolsContainer.csproj.AssemblyReference.cache
+/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/obj/Debug/net8.0/Zitac.MSIToolsContainer.GeneratedMSBuildEditorConfig.editorconfig
+/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/obj/Debug/net8.0/Zitac.MSIToolsContainer.AssemblyInfoInputs.cache
+/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/obj/Debug/net8.0/Zitac.MSIToolsContainer.AssemblyInfo.cs
+/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/obj/Debug/net8.0/Zitac.MSIToolsContainer.csproj.CoreCompileInputs.cache
+/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/obj/Debug/net8.0/Zitac.MSIToolsContainer.sourcelink.json
+/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/obj/Debug/net8.0/Zitac.MSIToolsContainer.dll
+/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/obj/Debug/net8.0/refint/Zitac.MSIToolsContainer.dll
+/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/obj/Debug/net8.0/Zitac.MSIToolsContainer.pdb
+/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/obj/Debug/net8.0/ref/Zitac.MSIToolsContainer.dll

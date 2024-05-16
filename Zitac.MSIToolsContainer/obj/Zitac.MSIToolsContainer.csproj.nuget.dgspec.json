@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSITools/Zitac.MSITools.csproj": {}
+    "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/Zitac.MSIToolsContainer.csproj": {}
   },
   "projects": {
-    "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSITools/Zitac.MSITools.csproj": {
+    "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/Zitac.MSIToolsContainer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSITools/Zitac.MSITools.csproj",
-        "projectName": "Zitac.MSITools",
-        "projectPath": "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSITools/Zitac.MSITools.csproj",
+        "projectUniqueName": "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/Zitac.MSIToolsContainer.csproj",
+        "projectName": "Zitac.MSIToolsContainer",
+        "projectPath": "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/Zitac.MSIToolsContainer.csproj",
         "packagesPath": "/home/kenny/.nuget/packages/",
-        "outputPath": "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSITools/obj/",
+        "outputPath": "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kenny/.nuget/NuGet/NuGet.Config"
