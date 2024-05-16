@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "F8slUFeqa9G9Y10h+HHNEJpBVE7VA4zfF3MncYL/72u2KBdcyhCHdGi7cgBMZTbeqIk42Zq2q/wP/g0aGpV56g==",
+  "dgSpecHash": "nZEaJWkcli57piqNbJQ0tggxfkeiY2Ox79srIknEIRRtkXvM3bA4EoLbF5xwkLXFGU94/Gh/1+s1KV4CtgnoeA==",
   "success": true,
-  "projectFilePath": "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/Zitac.MSIToolsContainer.csproj",
+  "projectFilePath": "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.MSITools\\Zitac.MSIToolsContainer\\Zitac.MSIToolsContainer.csproj",
   "expectedPackageFiles": [
-    "/home/kenny/.nuget/packages/decisionssdk/8.19.0/decisionssdk.8.19.0.nupkg.sha512"
+    "C:\\Users\\svc-decisions\\.nuget\\packages\\decisionssdk\\8.19.0\\decisionssdk.8.19.0.nupkg.sha512"
   ],
   "logs": []
 }

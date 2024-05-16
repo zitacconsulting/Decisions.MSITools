@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/Zitac.MSIToolsContainer.csproj": {}
+    "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.MSITools\\Zitac.MSIToolsContainer\\Zitac.MSIToolsContainer.csproj": {}
   },
   "projects": {
-    "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/Zitac.MSIToolsContainer.csproj": {
+    "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.MSITools\\Zitac.MSIToolsContainer\\Zitac.MSIToolsContainer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/Zitac.MSIToolsContainer.csproj",
+        "projectUniqueName": "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.MSITools\\Zitac.MSIToolsContainer\\Zitac.MSIToolsContainer.csproj",
         "projectName": "Zitac.MSIToolsContainer",
-        "projectPath": "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/Zitac.MSIToolsContainer.csproj",
-        "packagesPath": "/home/kenny/.nuget/packages/",
-        "outputPath": "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSIToolsContainer/obj/",
+        "projectPath": "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.MSITools\\Zitac.MSIToolsContainer\\Zitac.MSIToolsContainer.csproj",
+        "packagesPath": "C:\\Users\\svc-decisions\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.MSITools\\Zitac.MSIToolsContainer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/kenny/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\svc-decisions\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -59,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

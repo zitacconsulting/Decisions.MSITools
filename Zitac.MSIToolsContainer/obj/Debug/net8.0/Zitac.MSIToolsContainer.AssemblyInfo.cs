@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zitac.MSIToolsContainer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c44f9a026a8ece8997abdda3f53a500c66a3fc70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4a4e97ea0a2b15830a0fb736324169f4b429869")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zitac.MSIToolsContainer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zitac.MSIToolsContainer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
