@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lgsRCx8X/J77o/+PCD67wKYthGp1zqA6rx+ppRDOKpi5tUSyTYE4frf3QT83LRzaxtaS2iBCLl6BB+PxcIAbGg==",
+  "success": true,
+  "projectFilePath": "/home/kenny/Desktop/GIT/Decisions.MSITools/Zitac.MSITools/Zitac.MSITools.csproj",
+  "expectedPackageFiles": [
+    "/home/kenny/.nuget/packages/decisionssdk/8.19.0/decisionssdk.8.19.0.nupkg.sha512"
+  ],
+  "logs": []
+}
