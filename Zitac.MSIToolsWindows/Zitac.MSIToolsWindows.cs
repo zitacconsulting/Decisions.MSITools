@@ -3,7 +3,6 @@ using DecisionsFramework.Design.Flow.CoreSteps;
 using DecisionsFramework.Design.Flow.Mapping;
 using DecisionsFramework.Design.Properties;
 using DecisionsFramework.Design.ConfigurationStorage.Attributes;
-using DecisionsFramework.Design.Flow.Service.Debugging.DebugData;
 
 using WixToolset.Dtf.WindowsInstaller;
 
@@ -106,10 +105,13 @@ public class GetMSIVersionWindows : BaseFlowAwareStep, ISyncStep, IDataConsumer,
         }
         finally
         {
-            // Clean up the temporary file.
-            if (File.Exists(FilePath))
+            if (provideAsByteArray)
             {
-                File.Delete(FilePath);
+                // Clean up the temporary file.
+                if (File.Exists(FilePath))
+                {
+                    File.Delete(FilePath);
+                }
             }
         }
     }
