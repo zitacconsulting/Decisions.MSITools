@@ -73,11 +73,13 @@ public class GetMSIVersionContainer : BaseFlowAwareStep, ISyncStep, IDataConsume
         {
             FilePath = data.Data["File Path"] as string;
         }
-        // Ensure msitools is installed
-        EnsureMsitoolsInstalled();
 
         try
         {
+            // Ensure msitools is installed
+            EnsureMsitoolsInstalled();
+
+
             // Use msiextract to extract the version information
             var startInfo = new ProcessStartInfo
             {
