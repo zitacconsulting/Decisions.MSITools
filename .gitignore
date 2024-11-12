@@ -1,6 +1,4 @@
-Zitac.MSIToolsContainer/obj
-Zitac.MSIToolsWindows/obj
-Zitac.MSIToolsContainer/obj/Zitac.MSIToolsContainer.csproj.nuget.dgspec.json
-Zitac.MSIToolsContainer/obj/Zitac.MSIToolsContainer.csproj.nuget.g.props
-Zitac.MSIToolsContainer/obj/Debug/net8.0/Zitac.MSIToolsContainer.csproj.AssemblyReference.cache
-Zitac.MSIToolsContainer/obj/Debug/net8.0/Zitac.MSIToolsContainer.GeneratedMSBuildEditorConfig.editorconfig
+Zitac.MSIToolsContainer/obj/*
+Zitac.MSIToolsWindows/obj/*
+Zitac.MSIToolsWindows/bin/*
+Zitac.MSIToolsContainer/bin/*
