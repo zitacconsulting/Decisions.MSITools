@@ -5,7 +5,9 @@
             "./Zitac.MSIToolsContainer/bin/Zitac.MSIToolsContainer.dll",
             "./Zitac.MSIToolsWindows/bin/Zitac.MSIToolsWindows.dll"
         ],
-        "CustomImages": null,
+        "CustomImages": [
+            "msi-icon.svg"
+        ],
         "CliDlls": null,
         "WebPages": null,
         "SilverlightDlls": null,
@@ -15,7 +17,7 @@
         "ObjectsToImport": null,
         "MsSqlScript": null
     },
-    "Version": "9.4.0",
+    "Version": "9.7.0",
     "ImagePath": "msi-icon.svg",
     "Description": "This module adds steps to interact with MSI files"
 }
